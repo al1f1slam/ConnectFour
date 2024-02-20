@@ -9,5 +9,3 @@
 - CSS
 
 - Javascript
-
-- JQuery"# ConnectFour" 
